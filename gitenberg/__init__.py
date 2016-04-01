@@ -11,6 +11,10 @@ from .workflow import upload_all_books, upload_list, upload_book
 
 __title__ = 'gitberg'
 __appname__ = 'gitberg'
+<<<<<<< HEAD
 __version__ = '0.2.1'
+=======
+__version__ = '0.2.4'
+>>>>>>> refs/remotes/gitenberg-dev/master
 __copyright__ = 'Copyright 2012-2016 Seth Woodworth and the Free Ebook Foundation'
 

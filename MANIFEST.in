@@ -1,3 +1,7 @@
-include README.md LICENSE CONTRIBUTING.rst bin requirements.pip HISTORY.rst
+include README.md LICENSE CONTRIBUTING.rst requirements.pip HISTORY.rst
 recursive-include gitenberg *
+<<<<<<< HEAD
 include assets/GITenberg_repo_list.tsv assets/missing.tsv assets/gutenberg_descriptions.json
+=======
+recursive-include bin *
+>>>>>>> refs/remotes/gitenberg-dev/master
